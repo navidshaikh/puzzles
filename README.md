@@ -6,3 +6,4 @@
   1. [Fibonacci series](./fibonacci)
   2. [Task cooldown period](./cooldown)
   3. [Least common subsequence of two strings](./lcs)
+  4. [Sum of array](./sumofarray)
