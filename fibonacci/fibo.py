@@ -25,7 +25,7 @@ def fibo2_sequence(n):
 
     prev_prev = 0
     prev = 1
-    print pre,
+    print prev,
     for _ in range(n):
         current = prev + prev_prev
         prev_prev = prev
