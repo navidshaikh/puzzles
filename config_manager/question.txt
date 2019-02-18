@@ -1,0 +1,41 @@
+Sample problem and output:
+==========================
+
+
+P <-- default config
+Q <-- custom config
+
+Input:
+
+P = {
+   x: {
+      a: 1
+      b: 2
+      c: 3
+      }
+   y: 7
+   u: 4
+   }
+
+
+Q = {
+   x: {
+      b: 6
+      d: 8
+      }
+   y: 5
+   z: 9
+   }
+
+
+Q->P = {
+   x: {
+      a: 1
+      b: 6
+      c: 3
+      d: 8
+      }
+   y: 5
+   u: 4
+   z: 9
+   }
